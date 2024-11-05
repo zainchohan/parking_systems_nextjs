@@ -12,7 +12,7 @@ A Next.js application for managing parking spaces, utilizing Tailwind CSS for st
 
 1. Clone the repository:
    git clone https://github.com/zainchohan/parking_systems_nextjs.git
-   cd parking-management-system
+   
 
 2. Install dependencies:
     npm install
