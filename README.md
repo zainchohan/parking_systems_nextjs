@@ -15,8 +15,8 @@ A Next.js application for managing parking spaces, utilizing Tailwind CSS for st
     - cd parking_systems_nextjs
 
 2. Install dependencies:
-    npm install
+    - npm install
     
 3. Run the development server:
-    npm run dev
+    - npm run dev
   
