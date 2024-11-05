@@ -1,5 +1,5 @@
 # Parking Management System
-A Next.js application for managing parking spaces, utilizing Tailwind CSS for styling.
+A Next.js application designed for managing parking spaces, built with TypeScript and styled using Tailwind CSS.
 
 ## Getting Started
 
